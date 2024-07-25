@@ -13,7 +13,7 @@ This is a simple React Todo application with CRUD functionalities, styled using 
 
 ## Demo
 
-**Link:**https://anan-react-todo-task.netlify.app/
+Link:https://anan-react-todo-app.netlify.app/
 
 ## Getting Started
 
@@ -28,20 +28,20 @@ Follow these instructions to set up and run the project on your local machine.
 
 1. Clone the repository:
    
-   git clone https://github.com/ananyasrikanth2101/React-Todos-Task.git
+   git clone https://github.com/ananyasrikanth2101/React-Todo-App.git
 
 2. Navigate to the project directory:
 
-cd React-Todos-Task
+   cd React-Todos-Task
 
 3. Install the dependencies:
 
-npm install
+   npm install
 
 # Running the App
 
 Start the development server:
-npm start
+   npm start
 
 # Project Structure
 
